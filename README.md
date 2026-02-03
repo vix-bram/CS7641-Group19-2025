@@ -1,6 +1,6 @@
 # CS7641-group-19
 
-This is the Github repo for group 19's CS7641 project (Spring 2025). For the final report, check final_report.md
+This is the Github repo for group 19's CS7641 project (Spring 2025). For the final report, check **final_report.md**.
 
 
 # CODE FILES:
